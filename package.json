@@ -1,0 +1,23 @@
+{
+  "name": "node-todo-demo",
+  "version": "1.0.0",
+  "description": "使用node完成命令行版本的todolist",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LingKim/node-todo-demo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LingKim/node-todo-demo/issues"
+  },
+  "homepage": "https://github.com/LingKim/node-todo-demo#readme",
+  "dependencies": {
+    "commander": "^3.0.2"
+  }
+}
